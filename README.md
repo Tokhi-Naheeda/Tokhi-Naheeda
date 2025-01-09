@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👨‍💻 All of my projects are available at [git@github.com:Tokhi-Naheeda/Tokhi-Naheeda.git](git@github.com:Tokhi-Nheeda/Tokhi-Naheeda.git)
+- 👨‍💻 All of my projects are available at [git@github.com:Tokhi-Naheeda/Tokhi-Naheeda.git](git@github.com:Tokhi-Naheeda/Tokhi-Naheeda.git)
 
 - 💬 Ask me about **HTML,CSS,SCSS,Javascript,Typescript,Bootstrap,React,Express.js,MongoDB,Node.js**
 
